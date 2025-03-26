@@ -1,0 +1,26 @@
+{
+  "IS_QUESTION": {
+    "name": "IS_QUESTION",
+    "prompt": "Is this utterance syntactically or pragmatically structured as a question? Consider both direct questions (with question marks or interrogative structure) and indirect questions (embedded questions or questions without explicit markers).",
+    "chunker": "user_message",
+    "version": "v1_top_level"
+  },
+  "IS_FACT_CHECKING": {
+    "name": "IS_FACT_CHECKING",
+    "prompt": "Is this a fact-checking or confirmation question where the user expects a brief factual or yes/no answer? Examples include verification questions ('Is Paris in France?'), confirmation checks ('So, the meeting is tomorrow at 3?'), or specific factual queries ('What's the capital of Australia?').",
+    "chunker": "user_message",
+    "version": "v1_top_level"
+  },
+  "IS_EXPLORATORY": {
+    "name": "IS_EXPLORATORY",
+    "prompt": "Is this an exploratory question where the user expects detailed exploration, explanation, or discussion? Examples include open-ended questions ('How does democracy differ from other political systems?'), conceptual queries ('What causes happiness?'), or procedural questions ('How can we reduce climate change?').",
+    "chunker": "user_message",
+    "version": "v1_top_level"
+  },
+  "IS_RHETORICAL": {
+    "name": "IS_RHETORICAL",
+    "prompt": "Is this a rhetorical or challenge question where the user expects no genuine new information but rather uses the question to assert, challenge, or test? Examples include clearly rhetorical questions ('Isn't it obvious?'), challenge questions ('If 9.11 is greater than 9.8, shouldn't this item rank first?'), or questions expressing doubt ('Are we really going to accept these conditions?').",
+    "chunker": "user_message",
+    "version": "v1_top_level"
+  }
+} 

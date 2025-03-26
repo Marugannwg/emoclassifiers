@@ -11,6 +11,7 @@ CLASSIFIER_DEFINITION_PATH_DICT = {
     "v1": "assets/definitions/emoclassifiers_v1_definition.json",
     "v1_top_level": "assets/definitions/emoclassifiers_v1_top_level_definition.json",
     "v2": "assets/definitions/emoclassifiers_v2_definition.json",
+    "question": "assets/definitions/question_classifiers_definition.json"
 }
 
 
@@ -86,7 +87,7 @@ def get_emo_classifiers_v2_prompt(
     )
 
 
-def get_emo_classifiers_prompt( 
+def get_emo_classifiers_prompt(
     classifier_definition: dict,
     chunk: Chunk,
 ) -> str:
@@ -96,6 +97,12 @@ def get_emo_classifiers_prompt(
     if classifier_definition["version"] == "v1":
         return get_emo_classifiers_v1_prompt(classifier_definition=classifier_definition, chunk=chunk)
     elif classifier_definition["version"] == "v1_top_level":
+        if classifier_definition["name"].startswith("IS_") and "QUESTION" in classifier_definition["name"]:
+            return prompt_templates.QUESTION_CLASSIFIER_PROMPT_TEMPLATE.format(
+                classifier_name=classifier_definition["name"],
+                prompt=classifier_definition["prompt"],
+                snippet_string=chunk.to_string(),
+            )
         return get_emo_classifiers_v1_top_level_prompt(classifier_definition=classifier_definition, chunk=chunk)
     elif classifier_definition["version"] == "v2":
         return get_emo_classifiers_v2_prompt(classifier_definition=classifier_definition, chunk=chunk)
@@ -107,7 +114,7 @@ class ModelWrapper:
     def __init__(
         self,
         openai_client: openai.AsyncOpenAI | None = None,
-        model: str = "gpt-4o-mini-2024-07-18",
+        model: str = "gpt-4o-mini",
         max_concurrent: int = 5,
     ):
         """

@@ -83,3 +83,33 @@ Now, the following is the conversation snippet you will be analyzing:
 
 Once again, the classification task is: {prompt}.
 Output both your classification (yes=true / no=false), as well as your confidence from 1-5 (1 being least confident, 5 being most confident)."""
+
+QUESTION_CLASSIFIER_PROMPT_TEMPLATE = """You are a model for identifying and classifying questions in conversations.
+You will be presented with an utterance or conversation snippet.
+Your classification task is entitled '{classifier_name}'. Specifically, we want to know: {prompt}
+
+The conversation will be presented in a format like this, but may be shorter (even a single message):
+
+[USER]: (user's message)
+[ASSISTANT]: (chatbot's message)
+[USER]: (user's message)
+
+For single messages, you'll see just:
+[USER]: (user's message)
+
+Now, the following is what you will be analyzing:
+
+<snippet>
+{snippet_string}
+</snippet>
+
+Once again, the classification task is: {prompt}
+Output your classification (yes, no, unsure).
+
+Remember:
+- For IS_QUESTION: Look for both direct questions (with ? or interrogative structure) and indirect questions
+- For IS_FACT_CHECKING: User expects clear, factual answer
+- For IS_EXPLORATORY: User expects detailed exploration or explanation
+- For IS_RHETORICAL: User expects no genuine new info, but tests or asserts
+- If not structured as a question at all, classify as "no"
+"""
