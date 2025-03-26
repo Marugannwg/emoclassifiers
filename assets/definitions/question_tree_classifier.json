@@ -1,0 +1,8 @@
+{
+  "QUESTION_TYPE": {
+    "name": "QUESTION_TYPE",
+    "prompt": "Analyze this utterance following this detailed decision tree with examples: 1. STRUCTURE CHECK\nQuestion: Is it structured explicitly as a question (syntax or pragmatics)?\nIf NO → Output: 'no_question'\n2. FACTUAL CHECK\nQuestion: Does it seek verification or factual accuracy with expected short/clear answer?\nIf YES → Output: 'fact_checking'\nExamples:\n• Simple, non-opinionated yes/no questions: \"Is Paris in France?\"\n• Confirmation about agent ability: \"Can you arrange a meeting?\"\n• Fact queries: \"What's the capital of Australia?\"\n\n3. RHETORICAL CHECK\nQuestion: Does user primarily assert, challenge, critique, or test alignment rather than genuinely asking for new information?\nIf YES → Output: 'rhetorical'\nExamples:\n• Pure rhetorical: \"Isn't it obvious? Do you understand?\"\n• Challenge/logic test: \"If 9.11 > 9.8, shouldn't this rank first?\"\n• Indirect assertions: \"Are we really accepting these conditions?\"\n• Politness Strategies: \"(A clear context)... Could you please do this?\"\n4. EXPLORATORY CHECK, \nQuestion: Does user invite extended discussion, deeper thought, and opinions, or elaborations? \n\nExamples:\n• Open-ended: \"How does democracy differ from other systems?\"\n• Opinionated: \"Is Trump a good president?\"\n• Philosophical: \"What causes happiness?\"\n• Complex how-to: \"How can we reduce climate change?\"",
+    "chunker": "user_message",
+    "version": "question_tree"
+  }
+} 

@@ -1,1 +1,5 @@
 openai>=1.51.0
+tqdm>=4.66.0
+pydantic>=2.0.0
+pandas>=2.0.0
+pyarrow>=14.0.1  # for parquet support

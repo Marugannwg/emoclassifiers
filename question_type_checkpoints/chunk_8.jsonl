@@ -1,0 +1,1000 @@
+{"conversation_hash": "e40a167070b0ede3adf4a2452bd8084a", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "0a62f48c91ea662a15a5d0cf8812d6a9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2ab95580c5f90cda835a7b5547e55185", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7017f3f8b6e6bfe6c930ca59ff344c17", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "022240ecd1d484ac7486c47e3abd3aee", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "07f2fa634a59dcd88173ea5cbf551d94", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "e4a32d678a021479b04f8ce107810282", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "23a2141c745982317c66ee3b986e65c8", "classifications": {"0": "no_question"}}
+{"conversation_hash": "99311da2f2804a9e69ef434f94443287", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0bfa8f7601775bc9df611fd700c46897", "classifications": {"0": "no_question"}}
+{"conversation_hash": "dd4c51aca0ce5b3d045141f1f5f3a514", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a30b54ccdcf7fbf0cbf91b840ba2e3dd", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "3d8eaa14d27cfd6bb2bf6c01c8be136d", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "3560d3eda1e0271e51e33ded55a7640c", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "2189bd8a51ad93ff6583cab06be1b233", "classifications": {"0": "no_question"}}
+{"conversation_hash": "23f619294923aef6f41bbc1227483583", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "b0b5b53cef7cd4c0b62de48660942fcb", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "23effb70dcbb02a191a6e4ab6aff60c4", "classifications": {"0": "no_question"}}
+{"conversation_hash": "331efb2754b150124f052c83a3eb5406", "classifications": {"0": "no_question"}}
+{"conversation_hash": "dc051940eb7e78ea85c52b797370f4f1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "92d36201a979c1ffc73760feeab02321", "classifications": {"0": "no_question"}}
+{"conversation_hash": "79f0476eb98be80468b0208d05157a14", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0d434a40af9121d3227bd6e6941c022f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2968ee28b25ce0ee544aa23fa53409f3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "26f566cf5d378bc39e5f6714115ee180", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "988e11197a9dfc1a8f05dd7fb8cae720", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "b0213e8b7b4a82fb764cbcbb2c7f9ead", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "8109d5de9fafe82df0d4230265b9d1d4", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "1b396de0575b5d7a818a1862f07a2115", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "33b1b1a34eb2fcbd36e8abbe4966c42f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "df6514eb765bed3b633f1345706c3417", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "955b640b8050f38358cbc9b1891e242d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "da44300b5777917c3823b745fc9c987c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5d2a5a6cc375bea3c1ee7076b8dfae5e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3ba6c966e0d5359207dc88eead253402", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6653b173945ce50e9d8997e931e56fa1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c444dc64976af96948a7432c95a3178d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "952b40f5eee8cda721cf1f7a39f43921", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "3cf60ace144e667ed27834cf2f5f574d", "classifications": {"0": "exploratory", "2": "no_question"}}
+{"conversation_hash": "efacd6fe7364d49bc89af16646fc0ce8", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "685af46c01fa14a930f966463f3d0758", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5289ad5f13441b7fcacf48b23b936ea8", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "1b8fd586dcac1465891b42586a718c14", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4d63ef3a649b9c30eff537bfa45775c4", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3c0e92a651fd4f14402f073dc34d2860", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "507092116f0e7385872a089a794a74c1", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "6ffaaf5552c1c270ee7963f1a3ff44a5", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "43cabc4067f9239ebfffe1cbd4422fcc", "classifications": {"0": "no_question"}}
+{"conversation_hash": "efee765f3978474d1e4b06fb4cf10a6d", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "a57366464f4439a1c8c179a814be27e0", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "28ce80a4340c2d50884c71e582774d56", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "e4caa31c37fb9034b490556b27e6a52e", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "9e368c24071968352ac9bff842e2d454", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "21756a09bfcd87201a5ede88371b00fa", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7abbf62e233933cec1edb4b6b7914ae1", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "d6a944c408d4d0c4f253d30bc304fd13", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1d10ee5a3e9c9f9a409b3bda16b97616", "classifications": {"0": "no_question"}}
+{"conversation_hash": "aa8fb3f5055fa160bb4b8542eb55ffaa", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "54ffe6ab3a5caaa4636a11ecfb1566fe", "classifications": {"0": "rhetorical", "2": "no_question"}}
+{"conversation_hash": "fdf52e21dd0bec81bf25b55584302a4e", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "ba27d542e073f4d846ca64c8f05c50fe", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "2a7664e968ec4ebae2b085abb3586193", "classifications": {"0": "no_question"}}
+{"conversation_hash": "951158c59f56e3519255944e50473302", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "050688482d70a2b269ad96b4e18d5456", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "14533961ec40e65045a710c63cd579bf", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "393343e567833106e8830a2b8f163418", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6d67dc822fb045c3ddd7d51acceb2bd9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "27f27a6c2f390814ca0fbdfd81d35ae4", "classifications": {"0": "no_question"}}
+{"conversation_hash": "88df1bbcafb7206542b6591f364b2ec7", "classifications": {"0": "no_question"}}
+{"conversation_hash": "052e5bc68ae0e8987e0290caeefc5c3b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "292172e90ccb9af219fd94e929ac379d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "31b0bb41ff7824200e9c8a7fc8af9d98", "classifications": {"0": "no_question"}}
+{"conversation_hash": "dca5dae1cfb03b51388ec764330af265", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "f5e4968081ee3cdd06fd93db79106de9", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "50a2e600896d1f0bb0616816a3721448", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d90f50c23db7f6552301080de5090251", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5724f85cd87f8222367e1da6d4bf51e9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "fab261dd09508a1f8b4798859812532d", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "42e0c37d45eb17a81ad1c1edfe31ec47", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a1caf4494162e4502dd57ce5f743cd06", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "7bcc7c35ea657d8995b1b6f38f1b6d55", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9e40bfb6179731a8832f098f34e679fe", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "e781dc8c42187c443d5ab0191e2df64d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "105181cd257b0b98ba677651a73c674e", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "ebee4767a6f534a595e8cb4d533c8deb", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c04c22cacc7394b95524099e71f4c446", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "070c4aa433feb06e17ceee88603c690d", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "ff9649918bb56882c1475a95d280e87a", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "f32f3f7d0c9a4fe3fc4fd57eada09ae1", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "a02b1adc65b353a07b321554abaca1a7", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "84dbd976b0e5fb8d3945196a870c3627", "classifications": {"0": "no_question"}}
+{"conversation_hash": "aaff21c858bfa9e80832b90156d186df", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "1cdd3195c505dcd029599077b4831605", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5e13033f075b80758cd07a0956f6c1e4", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "c6198a273a2448dbda02f3ada1102d64", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a8058015553944d9d7a8b98655bd464d", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "191a27bf33f9df1939cce99b2b029cce", "classifications": {"0": "no_question"}}
+{"conversation_hash": "614a1d45341dc77f0648cbce2e7d7b0f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9497b4f5c0e48a5bb209a701f9576232", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a30ca737592c005dea1c4905908b64bc", "classifications": {"0": "no_question"}}
+{"conversation_hash": "10ff62d37b1de5e6911508ce7b924f7d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "59c1b29442a03674a92061213c422e27", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "f57abb4244f5851e5ca21be4c5be53f8", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "43be8d83c969355baa4b4a784af9fd7b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "77d9eab8458ef55b5aae49fe3ac55c5a", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "f3e7139c358770e232a9b98f7329311f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "34d345a3ed6b2c9e87f04a5da50471c6", "classifications": {"0": "no_question", "2": "rhetorical"}}
+{"conversation_hash": "0bf40d78e099a752fd237a83771aa363", "classifications": {"0": "no_question"}}
+{"conversation_hash": "72d96d4ecefeffc900e8ba9d5c7f7287", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4e20ca055137a3686528657c49d62d46", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "f6837354bd04d4e7c5938a07d1b2407b", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "f186cd643e913025142fc1ee794169f3", "classifications": {"0": "no_question", "2": "rhetorical"}}
+{"conversation_hash": "1844aa3ae3a94d0eeaaf815039fdccee", "classifications": {"0": "no_question"}}
+{"conversation_hash": "fe13e3107f3254a854c2c2fadad82ccb", "classifications": {"0": "no_question"}}
+{"conversation_hash": "14ec8a8b65ea161c2bc59016a1054b08", "classifications": {"0": "no_question"}}
+{"conversation_hash": "aa004efb7ee85577895439dde7552a13", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "92e44d0a3e27cddbc790974f52af5385", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5c059fb374ff7614dca8735cc62e849c", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "2c108836d64d588ee5665c04214c0e25", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "ba5ce0e781d51110e85d6796feba311a", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "e3261cd46fccc986672e32e04e84fde0", "classifications": {"0": "no_question"}}
+{"conversation_hash": "84cf40a22b09ebd2dcc1d16c7f99d3ca", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7d705f53a1b29f4a4459c0d27a6f2f8d", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "edff84088f3df7b8170eac662a4968df", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "8cd8bb9bec9f07e03f4db00ce822f00a", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "d73cd791214bb2cfda4c3303fbfcac51", "classifications": {"0": "no_question"}}
+{"conversation_hash": "84b79ebecc6f43293f15d39a0ff6eaba", "classifications": {"0": "no_question"}}
+{"conversation_hash": "25512b306c62de5f5e861114662a5d65", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "672a97dd9b4f3d272a1821abb2a2ed06", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f91d213539dfd96faead44928d21e536", "classifications": {"0": "no_question"}}
+{"conversation_hash": "325caa314e646677bb6219784883bbc2", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "1986eed51ab6f785b59b9e1113891110", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "4705548d4439e7e01772dffeb2cc719f", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "5a3675c626709bba61dbd3666f466402", "classifications": {"0": "no_question"}}
+{"conversation_hash": "702b63d08ca5de594a5d8dd565bba47b", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "af9e9a26512bf3d6ab9e04553330a44d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0edc7dbb0154a9bcd95a3f13f63a591b", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "d739af86cb2e9176f05ecf9944d738a3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2c5904d6e1b92f0f006ebb3215cbcf20", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "6543a9153411fd08a4cd40e407d84eac", "classifications": {"0": "no_question"}}
+{"conversation_hash": "8bf37bd51b277c8f083f57c505d9b866", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "234473651909a00bde8da3aabafc3519", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "78ff646162e6aef1eaa2b528d3d639fb", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "0835f7cae3d7725d9773fd943ed5346c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "dafc6cef7df6e421ba6eacd3202f5c8f", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "3232a2d164a6f218f46cb67c29bd898a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c30b8d33107123d6e3e7ac5780ba01a9", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "14bb5fb54d3079fce2ea5cef5c01523d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d05a9215dd927c113e45d36d6859789b", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "42719ccb91762cb988e577faa14f2cb1", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "c4215e6b286d2dbbb1e99cb64cc00006", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6cdee298b4ea07c7a5ae5d73771cdeea", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "19b1b8712e714a4c4eaa2f9f30b0e768", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "7b772874b3c0765fe2ebc255dcdf1f3c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "82e8ecd1671bbdab95a6cdaaac4e27da", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "6495d90f602976ed2c4ed978df23320b", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "ced9dcfe39b68693d30c95f422713205", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "2f0d00493115fc1778bfb8b36302d2ef", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "b492ad5f3d2837ae4682eff3c97d3e50", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "58ec1afb73128c0eff066aef705b3d5d", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "215acc58bf4c3f83410ce4d383a9950d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "02d34db8dbe47bb3ec9d628cd9d36a12", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "ce6eb12c223a37457df5a80cf801296c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "188b2874da34e6e8366bb7ccc223edcf", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5a74e122eddba48215194f87fb100043", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4727c039e662583982f3ad3e72d18a56", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "99cecdca25f3fca1f1f85595cacb20c2", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2020aadbccb47ef24bb3efb0004c6b80", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "12062cd5ae6cbbaea386a7460e452ed0", "classifications": {"0": "fact_checking", "2": "no_question"}}
+{"conversation_hash": "76d3e0326d274d07ea4c4f42139bf26a", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "f84f7a602d1affd6d4e3f06f042934c1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "e17559553f27c72f00fc303a82b14d77", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "f10f997c90f0eb16b50644c3e7f17475", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "09d72034c2af51a3cb00c6bcfbad3b87", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "5b5706538214fa15a1a241b0c2134b42", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "11229ec629cf0b95b85d1cec60d5aed3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "089d5614bcd2b20c138b901d63a2c218", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5feea3275dd1ded66292ce83f666587f", "classifications": {"0": "fact_checking", "2": "no_question"}}
+{"conversation_hash": "01f09b5489be49bed44b23252c3a4036", "classifications": {"0": "no_question"}}
+{"conversation_hash": "43c22bb585e7dc7b87fb4f0d8bb5bba2", "classifications": {"0": "exploratory", "2": "no_question"}}
+{"conversation_hash": "2918cc5400603bb1c9f46bf46246cb59", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "6a32e20ffc5a799775b2c1197cef3b3a", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "568a06f1293f57dedcb22de1d16ae979", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2da2be818d3ef8c98f7db62eb466fb03", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "6d1239f82c20e7a77046f09bd2f9bf4f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "82fddeaf02858ba65c91809b894d470b", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "de38f9bcc9e372d6d922af21163c286a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6860abcae65ea42bb0ed825f2796ea4c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "8f5aabe294d2b2979975b2cb367484cd", "classifications": {"0": "no_question"}}
+{"conversation_hash": "88517b55a8d128f520c29f04813da4c7", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "580f226754ff82d5f89ee57fe475da45", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "23c2c3f8f985f921432fd49e18475586", "classifications": {"0": "no_question"}}
+{"conversation_hash": "886a3ed3cb97bd30ec2d143dac8fea48", "classifications": {"0": "exploratory", "2": "no_question"}}
+{"conversation_hash": "37c34979a74d86acbf823f7e0fbfd8c7", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d52c95a5c4da6fede8ade038bfa889b6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4468bfbab4965a21f505469885e7f533", "classifications": {"0": "no_question"}}
+{"conversation_hash": "751893be2aa505ad15e2c5d211724ce3", "classifications": {"0": "rhetorical", "2": "fact_checking"}}
+{"conversation_hash": "efecbc25fb6612fb338a09755ec38037", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d043f25dd9d734bbfcbc1ed050615eab", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "28aa7053cfa5bcdcf7e8367a60599379", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "002eadba523a9da5022314b2370d7f9a", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "d75d682d2e28349e9b8cd95caf85d8a1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9fc0a62309b39fa91b0395cb1a61a33d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "e7f9e3558bd0347caa3f13fe4d1054c1", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "c68d7b0bb8d72275d364bb98da8a4e37", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "b0676ba87477e4d562251f28175a5de5", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "50e1ffbb23fb2c47545c458e1bbaf145", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a6f756633fda4c3a9ae350edb6b9e6b8", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "8800d7af48096f039b00cc1a87d57043", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a8f0279dc43348bd113613bcaa2068e0", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "80449f06bc937583bd3bfd7d6b2a07f7", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b70806d4642024b463ca4bcf4ffa8719", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5127c4eec0f4774cc11fc4376c02d2c2", "classifications": {"0": "no_question"}}
+{"conversation_hash": "e6e5f19fc54e63e8322d5d0a79807084", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d99b18caa621284c9430e554c667ee95", "classifications": {"0": "exploratory", "2": "no_question"}}
+{"conversation_hash": "bf38ff59ce52e8bff571c2f923a0d95b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "118b21a5dd9ba99808529960800d3eba", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "17657ee91751b70b14aea1fa195f683c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "bc9057f2582025b2ecf09553a83b9cdc", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2cf91039bc8a076f378dba0142ba2e07", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "7f3424ae3ac35c78fc6e62885e9202c0", "classifications": {"0": "no_question"}}
+{"conversation_hash": "485557aeca482edeae8598cee8b45d61", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7607f1c6c26650b7cd66470622b3b143", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "9bb098a9a9e2fcd3897ba2f210f62295", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "c8ef485daae9da4bb36b3c7c616f52f0", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "76bee685d5ffe4e73689aabcd3fb23ea", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5f9bda5c2ae81f3c17c90bbf0430cfbe", "classifications": {"0": "no_question"}}
+{"conversation_hash": "74bbc72406aa4c24a1b4bcaf70a1e244", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ca3f434e5f1057ee192a1a3edd87ca78", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "336c4c5065d5d7dcc60dbff8a68e2466", "classifications": {"0": "no_question"}}
+{"conversation_hash": "71168d1cd20c8d07044401243cb62b68", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f9fe017a95b09a8989ccfc3919d3c4c0", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "30e489aeb9e545d7ca2c91dc9f255d93", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f674ea9e24764cfdae2f760461717c4f", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "28a49b8361636a7baa609afb44fa44ce", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "7e83f089ca504dbfc9c0af4a3b775b10", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9ed1fb4a9c7a2e230f54c6ebab673344", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "6445e673d02c91c3649fb11b94772395", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "7f1b885b1e7bd5f1dde6966bd1160c70", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a3a82fe53d06e40a33bb56dcee17c96c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "40da40cc21d57bfcbf929bf089746ded", "classifications": {"0": "no_question"}}
+{"conversation_hash": "869944e2a8a14197957c01939e7745e3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f98761c40748bb7341e3632d2fc78e3f", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "b5f16fcc70d1f4250c6dcc27a494d147", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "7f5555df6ba07292a9ed7c0e66c1827c", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "9b3381828af024dfdefb7496704c50d9", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "7145693bf0462941467fa0f5072e9781", "classifications": {"0": "no_question"}}
+{"conversation_hash": "69eb5a18f991e8636661862f1ff7c74a", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "40bf29b32ec1d0e97469d1292536b3bb", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "6dcc6035efc4ade6a2a71afe2802c737", "classifications": {"0": "no_question"}}
+{"conversation_hash": "dcdc457246b75e63c68c4e7c9c064c72", "classifications": {"0": "no_question"}}
+{"conversation_hash": "658ff5f268d09a14b714243d3a873059", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "7046572077c5d56b4d47e7580220681f", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "6ed80ae427d2d08e5dc5fbf38d705da1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "14d30076807e10181d812e12a6b11a93", "classifications": {"0": "no_question"}}
+{"conversation_hash": "32cc164f07e529ebbe4eb32ee80f9c73", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "88a11935ac44f94a0fab067e7c5659fa", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "50227ffe7e04b5bacd4866b437c5110f", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "a86d90e257e76d7cc5ec813a5bc01b6b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f73e5f45d57fcf3781312693e4465a6c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ea9d79529a48839c7d20d3c2035111eb", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "9aa633a89e7f630e045a043077e13dce", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ffdce92c974748caa461443e45db35bb", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "963433e7997e037f2690216806a455bb", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "eb3d657389933b622eb30be4eaff4ae9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b2d89b29fee29618df427277ab84dd3c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "75a718eb5e898c9f761a145ea19cfa28", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "0fa7132435c816cc9b14064da27411e2", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "cc9ce2947515980c7ea40a39b53ec1ad", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b9af24f3cad93bed08bcc637c01eff0a", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "8bd05a8a810397322fcb2f7d03fec252", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1251f23dda409737105af1a951025542", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9923c53228a01b316d0b1f644ff78623", "classifications": {"0": "no_question"}}
+{"conversation_hash": "e5531e1469d0a26fe2c54475ead65303", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "9072570bb0668312868d7856048be890", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d88a53885d34f5d38afd14a51f3081ef", "classifications": {"0": "no_question"}}
+{"conversation_hash": "57ff5a134acfa4824f7f85d30b3a5bbd", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "d44f8cac49d23e3ce543a64539dd5005", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d63edb88b39c9bdab260b5f5f0fd73c4", "classifications": {"0": "no_question"}}
+{"conversation_hash": "8cb0221f9450fe24a2c58787fa11c91d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c0d59603820fae9c69d6944a336cf227", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b756d69fcb439a3835c4c664c7e211c6", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "4fe5489443ceda37acd8ed96c5d25822", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f3dbd5775a2c96f64a75eb503a51e176", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "1aa46b817b06da4d65778ed61d8b315a", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "5ef4030a43305676ca2ffc5b1f3a21c9", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "072fc5ed6c9629cb2b14c9ed51c99b4e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "db4653b22acea9a44adb63a45c437704", "classifications": {"0": "no_question"}}
+{"conversation_hash": "50932fb8476fd790b5994d3003583a34", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ed5f328ae5d6d6158e88c3b5fe71fea3", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "b2826bc4d5d07b72ef189112095738cd", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "7cde109e23ab9573e9d790b28d70611d", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "3405d30ab41427b2dfae83e8d0183c45", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0318f504971e2e26e7ff269df2dacc3e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "fab9a707822d125db2603ec8b87cda8a", "classifications": {"0": "fact_checking", "2": "no_question"}}
+{"conversation_hash": "4d914d9703730626e2a4ee27e49448f8", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5c87603c5ac44e431b272167822f6aca", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a4db600a8d35a06d98ec3bc64bd7f2a9", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "3609189a5aa287a8c48adab6fb0ebe8b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a4575208de581645bdff15480352c2d7", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5d8e89c915f200b1e6f5a568ab24819a", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "950bda4e01f36fd405fe9c3d5e5af5c2", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "57623225453bfa4ad596d1871bd411ed", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5f30fbde0ee05db1d6eb2f5ef7cb059e", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "76d6af4e5699e8f67427edc97d86d361", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6a222bd99518006a2b4034542923f18c", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "b453293dba49f6a32f610de310703ab5", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "7dbae6d81b289dba9d2ea946cb3ff998", "classifications": {"0": "no_question"}}
+{"conversation_hash": "48c341a7a92c96a901875248411cd82e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1d7a112c9ab3b26febce7225be608620", "classifications": {"0": "no_question"}}
+{"conversation_hash": "28d5d6f9e64eeffdd2e0381df9ef3db1", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "e915f597bff9302b7c7fcdfdbc1171e4", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "57eae6364fb8b721a6cbb9227e3dd14e", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "3f61714bf8d4e7525b49822c8fe24a91", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "cbd4bf77942d4058da9827de3d468513", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "987c90cdcdaf80ac9040ff5c2daa47f1", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "f774d7225b486ec7f71246b35f338e01", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "77b84a9bb9af425b9905a4337be29d71", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2f35eaff38ac770865652daf12673727", "classifications": {"0": "no_question"}}
+{"conversation_hash": "84ee83b2ecdfc7e445a90c990caf080e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "68394ff0fa745237eb8967c39d92b8bd", "classifications": {"0": "no_question"}}
+{"conversation_hash": "78c891c332afaefbf70906a88a4d8c4e", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "76daa0e05d192f3083210f25ee80c882", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "06474247c02f5a3417aece99ab5935ab", "classifications": {"0": "no_question"}}
+{"conversation_hash": "307677c4115e3bf02c51334e02ade9ed", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "ab816f5723ab52dda8dca89ddf65992a", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "d5e51c6682654545c12dcf9649f5606b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3273e341cebbcf414ee7850598a307c9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d7c1d459916a41ec6b260e6b071bb57b", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "118febabd6e99714e688833a18732667", "classifications": {"0": "no_question"}}
+{"conversation_hash": "25b58aca7cb86543adc5560dd824a978", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "ae62dcde33736f4e685582f72a5f85bc", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "76b87a76bd5587e77439c3e6f00dae7e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "71bd7c42f6c58c9da7d475313f455bf3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1a44d1693d4815a67704e2bcef90b110", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "ebc4afbdfa0808271d34c9bf766e97f8", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "fdc1b6e97f85c2bd82768a04e4605d57", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "643ab8f2c6dc5e8544025d2629f22fe0", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "528e966f0570b5b93e281ba5fb5d8a73", "classifications": {"0": "no_question"}}
+{"conversation_hash": "724218a83129713a1d235022dbdf5cfa", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c254b1d635c14ad07d1a0486e1c1a4c7", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "5e305d7f1a3d9bbd17ef2992f3ad9087", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c380628bc5105db96ddb06268744a743", "classifications": {"0": "no_question"}}
+{"conversation_hash": "344424105db7196fafc291a97784d3ef", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "ff2867e462887c53ee414ed7f77c7779", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "e9e9cae5ad2a9961690dd1e42cc62281", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "77bfc6ff8924eddf7b7d62b522b5131e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6571bfbe1cf9c854b9407bf57b215bb3", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "5f1f7499627c2621a1d2c37499f0199f", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "46de7f520c2d3955bb67e8bed75286aa", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "0cf1e14d3f754fba285e1aab112e96e7", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "70692ad5f121136d9803b00425a3ba2d", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "73d20e671c353b7b56233ead6fb3041c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f425eee3060f18285662ee166a907116", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "e9067eb225a96c80511b83a06010bf81", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "4607b2a96546efc4e87301c9e7c84d2a", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "fca050ab9c1fd29cfc6237739c1862e1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2d4ceb028dc4ace7077ba9b3470e0551", "classifications": {"0": "no_question"}}
+{"conversation_hash": "71da27782213b08264ec14e86b4e49fd", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "ef116901292adb6970fc1505875ec8e1", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "696250de96956a8df0be6aeb4a7dd76c", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "0e656200234e5d6e932cbac47c892b3f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9b980f43b3a3fdb5143e113ff20dc7ab", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "33df76c6fa50665736df7b0fc4f015f3", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "c8198a491f6e60b5b34dac65dbccb33b", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "171d4c4c8856a795353e5390224d6930", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "14b30593c646f2251b2f4b70c2dbed43", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "8b24f04e66e9d96aed6353dd9bbb18de", "classifications": {"0": "no_question"}}
+{"conversation_hash": "29c263535336ac50b90d9a3362610f9b", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "2f8938602c949532bd06711b2d70d07a", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "63687f1c8100f2f464b2881897a02181", "classifications": {"0": "no_question"}}
+{"conversation_hash": "cc08773545e327b40e198c0945088dbf", "classifications": {"0": "no_question"}}
+{"conversation_hash": "df8963d40961192a6c93a997a3a54fa1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ce1e1f99264354e429e4f9a1a355d696", "classifications": {"0": "no_question"}}
+{"conversation_hash": "572c4bb4a1b85e515de37a350cecd47b", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "8501e289f24dbef6adf48b38cc6fc235", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d8c669cc2ccf42c23eb514d33cc4d868", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "26709306af3af500235092c6ad3253ad", "classifications": {"0": "no_question"}}
+{"conversation_hash": "197363c4992eb9c56583e3f804a0371a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "e7fdd8c517f6b11118faaed03ae3d1d1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "97f72b149920f6963bb412fa59855283", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "9b8355e0adc131ca99b8eb138746008f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "eb6fc98eed1900ec377acb139ee26cbd", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "50a8e5075243efdee09ab899d51fea60", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "05f6e5ef291e6f64717e79607a1c43b3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b0defba22e5e3a28487e1e6a2cd039b9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "960238dc66d88a8b7ffb777345547315", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "239f52ce059c744f29112a706ff9fe2a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a3801e60c6908a333297423573d2c933", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "84a90a67e18221242395092a2d283b2c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "bc25ae4c47d49e2183570a8b99d78dab", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "cd2708dfb7cda94109b98732f6d7a306", "classifications": {"0": "no_question"}}
+{"conversation_hash": "298224b21b31577c7beb767f08584611", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "8f813093cd2374afccf9dec18631d57a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "72889c1b2daf5f9c976814babf850d46", "classifications": {"0": "no_question"}}
+{"conversation_hash": "11fc1725f92405dd32061f468afc5bc2", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "658e30fc3a845848e99cadcfbe1ec93f", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "7cb851850fa69d91461b4c69b593702c", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "a306de23f2278680b7d77f5c54102aad", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "a35fa72df64ad8fa4804c393d549ecb5", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "0166df8d1b44c73373134211944cbee5", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "428fa6aa75c885920b3fce7db4f53344", "classifications": {"0": "no_question"}}
+{"conversation_hash": "e6e639fc82ff30c99b5cf2b2f406541c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "cce1dddf05a60ca999206f0dbf39b4e4", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c10f7d622889c7a6acb5a16432fe3cf9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ff5bf7dd8390d160820d634aa098affc", "classifications": {"0": "no_question"}}
+{"conversation_hash": "91f99b331b01e52cf8851878c9564b4c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6173d3ab2292d37bfdba8d28faadc34e", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "1bdb0bb4de4b169c1eebe39d2cf10f61", "classifications": {"0": "no_question"}}
+{"conversation_hash": "eb7c5cc57a97a3fc8b06a9fdf99c8a12", "classifications": {"0": "no_question", "2": "rhetorical"}}
+{"conversation_hash": "9df0c08cdeef12603035d9284db99f15", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7bdcd14a8f88d18be89c1407c97811a1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3c55f0129b75da73dd9c907a6c4324a2", "classifications": {"0": "no_question"}}
+{"conversation_hash": "344a7342cbb43f325ad133edfffcdd0e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "fd686481d08e96512c60b89960443d33", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "e584a656b996cd7f4d7fb8da4c1a2992", "classifications": {"0": "no_question"}}
+{"conversation_hash": "11dd617f84f74997254b4797f4a17979", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d18ee22b88d2121a1c65588b0cf143f2", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "8530080ee089e0d81ee30b8a50ffebac", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "183f85fda0cbe53fb239c9ee4f3d3fb5", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "fed2b6f307b64fc37fd8b8d5e14606cd", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "9a796b4777206f59fd03a6206e036bef", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "d4676684f8f21b65ffcc1cbc36ce552a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "93454981bb3556739379759e40c7cc03", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "fde8c45bcaa1b16776d5544ba8166d31", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "c83bc4bb1662c88bf6a0591d592438e1", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "aff2c4f8d961207099b806b30a66d4dd", "classifications": {"0": "no_question"}}
+{"conversation_hash": "8e6f7d9a0ad85ff27a8a8e8819b96566", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "7aefa03afa353e70b0600a483a0f07fe", "classifications": {"0": "fact_checking", "2": "no_question"}}
+{"conversation_hash": "c2a1c9d909613619515d00b0c9fdf946", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "0a81f017a37941cd7a1883ac2666c55c", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "16798d80d9209beb8cf5256a34760254", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "986d076f966220a3a029f36e3afb6750", "classifications": {"0": "no_question"}}
+{"conversation_hash": "fbb91bd71eb8698e9e4d6d9333efedae", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d9a92caa29f87c8647cfe0c4d572b5b9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d0eeb08b3847f28afb9a2b72da20cdc5", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ea1a815181a4176dba49b0bf06bbcdd2", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "2fc4aa7cc2feef9db8bb8012031b744d", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "1a00cc7610afdda262dd354234886045", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f419092d61aee1eae51a568b8f0f5c74", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ce4b06a8ab2e190f4220969a4e9adfbb", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "3bd9a64a09a4b8ae3a8191bf159c9986", "classifications": {"0": "no_question"}}
+{"conversation_hash": "85472fea5a66a99a693146efea2eccf2", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1f63854389fdd7ec0b02b4049c47c06d", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "8865df5840d93d807ba42c41902be6de", "classifications": {"0": "no_question"}}
+{"conversation_hash": "40974433cdb000dc6f42305ecb1e0b1f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4372b5bb3919a393e641d5b604470fb1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0a242023d29cfe74e33a24226a0ad336", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f3fae5d4350ea4933aac9340706299ab", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "0de3d5023b3bd00191bc0bdf6345bd5c", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "acd36c89942e2b1427437adf6e8b54d8", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1720eb5fe410b2cc1861fd3adee98228", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "712611135ea3ab865499c1a4e454d3d8", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "39b65d8e626fd89b5fcebf9a6b8369ec", "classifications": {"0": "no_question"}}
+{"conversation_hash": "581d5205da76b81d1fc62cdc85ea05bc", "classifications": {"0": "no_question"}}
+{"conversation_hash": "feee0daf282c6345533aa2495bf0c776", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a482662faf7da340a0dc39d9705dc909", "classifications": {"0": "no_question"}}
+{"conversation_hash": "30cd5ddd599cb7798411583b39b2d83c", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "103f8f7a948ffd947f24bf384f4bcbd6", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "5d1abebfc2f8473f4e57401a6118cebc", "classifications": {"0": "no_question"}}
+{"conversation_hash": "26ce4ab6d32bd56381aaef2ce3c4fbc4", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "2c4439db05996ee59209ae1ae6899583", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "ec443631a66ff7580c84767051f25121", "classifications": {"0": "no_question"}}
+{"conversation_hash": "cccc094e4a7619e9a0ef7add779d2957", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "db851067e1ea0325d918bb1b4c1a4942", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1492491175d8daf416e523f8ede3ab1c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f7a35b83b0c038db738c243eddd66e8f", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "4595f0a50c119f821fc340621483298b", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "057f9c861d6f7a6cac02a532c177605d", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "1e85338d0eb0eb9d57578c07c0e5b366", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c29c1e35ce6dbedd825a4785720b8d21", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ae94637b52ed4e2e1a1a47c082d25380", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "c1faf2470c0503c37c2eea9f8e4fa5c0", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "70fd4a35c5e7082bf5c04709bfd5d0e0", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c657eb59e493f01813ba18020923fc0f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6b5797c2b09b420ea856874cc57284a5", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2e1875e0d19d3d1702c4c5e233191e4a", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "3762cbb9b0c82b6ef01e6bdb0e2e3bdc", "classifications": {"0": "no_question"}}
+{"conversation_hash": "dee68d708cd704d2557c29900d551c07", "classifications": {"0": "no_question"}}
+{"conversation_hash": "206746a7d479db01576e6607c5d369f7", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "93db24bbcd90e83b99510c9e3117d039", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9ad25f96d2587f69489a67f2b01169c7", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "0dac2957f08e50fb9dc135396783b174", "classifications": {"0": "no_question"}}
+{"conversation_hash": "41f5f4b44523c19495ce7acb9f6f43d0", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5436afcdcc133b9727c5a667e84c5df6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ad9612db365ea33abd6a552c5ef03eda", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "ac1b74bb67ad324d5891b00d9b7fc731", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "fabbc11b791c0407aa9c326fac73a049", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9398a5e66a78ec2afacb92988ef2bc10", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "b06269190ef40c27559fec425eaa9364", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "5f2d5a45d808410425b9ef05e48b6681", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "1a17d438f5216066c9a03ce2c8a66880", "classifications": {"0": "no_question", "2": "rhetorical"}}
+{"conversation_hash": "a423b0e47cfd0b220f561f562b4d9067", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "91305545c8e338d6cd62b0572f1e0e14", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "bf2f54a88d24668a50c227a421276186", "classifications": {"0": "no_question"}}
+{"conversation_hash": "e111caf932dea087f7c8463572079664", "classifications": {"0": "no_question"}}
+{"conversation_hash": "caee6f1eb7c66b8b9fba2e544e1afa39", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ebd7557da4b389ad42e4473ab72cd2d9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d04cbb6e2ae1cc7ca0355f8ddcd955d3", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "c1a3da9c0c9caa1b3218de0403a182e4", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "e84c24593d5efc156eb6d7d65fb2682e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0b5f01c7fed3815c8ab5c1382062090b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4494658103836f575f0f1ebb44413fd0", "classifications": {"0": "no_question"}}
+{"conversation_hash": "90eed9397f652545d235f5c462fc4412", "classifications": {"0": "no_question"}}
+{"conversation_hash": "50ccc8c159de46aed4ed76f680ec611d", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "ce748f3f153945f4b0bc7554f84973f1", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "e860ef677143b50b892cbdf2ff6f7bcb", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0f618ea158237c0623dee33e14b5432e", "classifications": {"0": "fact_checking", "2": "no_question"}}
+{"conversation_hash": "e12c40a72ec302ed0603c3f6f965cbce", "classifications": {"0": "no_question"}}
+{"conversation_hash": "cd0f5eedde4fe1607788880776222695", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6c40373231bd4d54a395d85ba8fd4e67", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b5311710ba84c16ef0e418447b347275", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "3f32608460ac5e2832d3ccf010eacc63", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "f0cc96e337a1d29870068acf9d2ccdb4", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "e6f0a4d6813b69bf35751d10f8e22251", "classifications": {"0": "exploratory", "2": "rhetorical"}}
+{"conversation_hash": "c2315ca9bbccdb7803d0b90384bcb360", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "1452ecd39ddb0ce02a5807dbf030a190", "classifications": {"0": "no_question"}}
+{"conversation_hash": "989c4205d7f943e097476c40655ba4c4", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5395c39c97fb24db2a98c578e0d60af8", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "c6fa9b0ee53eadc3975c98e3a6b72248", "classifications": {"0": "no_question"}}
+{"conversation_hash": "faaa7278fcfcdf9ca8f58424395c74f8", "classifications": {"0": "no_question"}}
+{"conversation_hash": "8c467d4b04d687ad53d87eba1fe92f05", "classifications": {"0": "no_question"}}
+{"conversation_hash": "8f11a8ba9a49aa90c024ff4c966915c7", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "bc9c362973dab07abd6e5c5295256d1f", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "e4c07b5e55da829e24328f9d90527bfd", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3b84d757b9d6077ae008cc582606efd7", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "0de74daebdcf0977a505c2193d48ea76", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "8698e056bd230cfebcba2844e31cab30", "classifications": {"0": "no_question", "2": "rhetorical"}}
+{"conversation_hash": "942818f05d958681ed6f3bdc96497fb3", "classifications": {"0": "exploratory", "2": "no_question"}}
+{"conversation_hash": "fb8cd6118d39d843f00ec0349842b1c8", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9f80f4660f0ea8e6eccc49c607f1cd3d", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "07867370fde03c2df69f5420a2bacc7f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "bcc8d2ce0e71d37229b95bb031188924", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "1638fcc7eb53a9bf5ac6f90af2f1bff7", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9cdd5d84f5a3461f8d9ee3828849b9a3", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "77d77755174fd297e66a8e45537143e6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "22f4afb94ea46f42e6639f30ef9f7d7a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "487497c220be7c0d98fa89346c01d688", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "ce050e19ade23088fe63166a91b3711f", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "b81145de038d09da61274b387a3a0db0", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3e6ce573575a10d350e8053562500303", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b89034fbef2b47fb4b6026852d2bfa1e", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "79445b8ddc84843c3c7b82cafb5e182d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "e9d98ca6eb1d8b5c09a57aeb51f2ecc2", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "34db0b9f352fe36f8c8bd5633651896c", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "2cdd5ff8444aab1209e7f8c819f010f2", "classifications": {"0": "no_question"}}
+{"conversation_hash": "801222fbc1c57b237c4aac9bca262030", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d408c619f58de4dbb57219ef3f505fe2", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "ad4c6dd701dcf504dad6ba64be6244ca", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "a29e997bf6d4938ab9bd3960fcbe3fb8", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "55a2cc344c41e3ea6b133c34ce361194", "classifications": {"0": "no_question"}}
+{"conversation_hash": "bd58d1eeb9e605a7c9509f8e85fc6e52", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "58a9ed6fdce1f4f114723c5b30787d0f", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "b1f19028e06984c14c6583e99b8f867e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "08d747f0120718946b87d1e92d951b1f", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "e0f8af9eb043a2d8d12949924739e6ac", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "47956a597f64f3436ea8b085a7ed634e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3ca4e50ce4afa77526d3e793cfeb5fed", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "597b6d47edbf61faf2c71204b1522cd2", "classifications": {"0": "no_question"}}
+{"conversation_hash": "986d2cb5542cbbf5fc85b85f7192090d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4ebfd13a8435c7d2ae2588c8f2482464", "classifications": {"0": "no_question"}}
+{"conversation_hash": "132b1abe0bf8b817beef740349682a3a", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "f28c075d72cabce7af009812c3ebe42b", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "9030f2af428e1338f82e5a0cb064bb0e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "fea7d8c02b75d91643bff295e5bc8ef1", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "6f26d8e5b25bbd045c5653e616ffcdbb", "classifications": {"0": "no_question"}}
+{"conversation_hash": "8700ab99542db8119069b514220b5042", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "696ef27106a5b1c42af999a5d0e92d0c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d905778eb2e7c9169e5f8e0828f10f95", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "f98c040fcc605633c716e427c06f79a2", "classifications": {"0": "no_question"}}
+{"conversation_hash": "26af1a93ab7b6686ecfc7aa681c97a4c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "59037455b122cf8669aa1bd63a7c8a88", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "0f4034eae30c91caf85b4cdc129cc4af", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "66d68a83f464d2546e8744a11490587d", "classifications": {"0": "fact_checking", "2": "no_question"}}
+{"conversation_hash": "dfa9ab77b578ff21dd329e0124fd706e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "fd193dcba4d313f8f8625937f1666fd2", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "e1c19ebdfef2fbe7dbb1202893b9053f", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "d3ca664bd505523ce0972361fa11d6f0", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3963b707d5b623d79f6755903e7a8939", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "e8ff63cc8e291224e2e70a656406d27e", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "b8946f50a1288b6ae2335907d647ec11", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "c969482acb71460f73d547d1b9971075", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "c62491609381da3dd61c37f1dc8e611f", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "0e187bfefe6b5411809045b2431f265b", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "fb234269a7dff6d1e260c3cb9fd9fe9c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ad6657e8b1ab49d395090f428d41d7f9", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "25c3ad935d29a344545472a664b3edcf", "classifications": {"0": "no_question"}}
+{"conversation_hash": "fedaede0e1f6a67c7360dd2042ec9149", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "4f8d4e74131652cdda8753058d2b3be8", "classifications": {"0": "fact_checking", "2": "no_question"}}
+{"conversation_hash": "5ae44b3e5cecde6fe38d71d94ca5b92e", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "290fa059544b7e88a2446d4bf5e3e759", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "367dbfefc5ad630a834397132f5a7711", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3cf804573e20dc95fcce620e5226ee4a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "85d6550667fa7ca44f68d64b0603f3d8", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "211b88910aca531f8d84edab34f03071", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b18dd1c87e4cbe2e2afab60dbc2f36f6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "21754df266c6234ff76eb07c28051582", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7b2ec72846d4f6f62e7658c00130498f", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "edde913ee4911e683ac0ca213058d4d2", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "39efef765da256d5f80181d0044e372c", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "72bffc8a3ed553ca726373892952591c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ce49e452b6d5271a2bb9173db22459b5", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "cb9d77d6ab0a2300e3606b46826004f4", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "b2b5ae17c94c56d33fea4ca83ada7582", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "86ef1928102958cd10da37e50461b6a3", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "c569e739c81a2d3f9b429eac1e4763a9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0f55123941c340fc582239a88a260760", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b13433795a944aeb3d22cd99978add4f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d6e774c778d71ddfdc43b27676127313", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4fc3bd73a15c70a9a696e2ac692dedc1", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "fb4f8214afabf92187fa9ea57caebb2f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4df45b24cd5028ee6e30db26ad818d27", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "fbe22e83734f5b2bbe0e940b82c971e7", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "3fbf183518cd7c984f3a7bbeda3c17b8", "classifications": {"0": "no_question"}}
+{"conversation_hash": "197c0661f0bfe099c54ad2aa515196eb", "classifications": {"0": "no_question"}}
+{"conversation_hash": "250b53c7283eeee6de9f0e672e8566ba", "classifications": {"0": "no_question"}}
+{"conversation_hash": "64b858a7484570c13f37798978e5c125", "classifications": {"0": "exploratory", "2": "no_question"}}
+{"conversation_hash": "3301d1805222baeb332ac7fdc5969beb", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "58b13def8a128134831544344212a854", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "ac4dd94c9197c048544c6177b5de8415", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "d509d1896f36fa05bc3894652977f1d3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7c7c8b4729bca7db4a257091547fa1bb", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2c0bdfe3b072ca3f9a7777059eafa36d", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "2f658fc179cbcf16ce5da52f8f65a2a3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "95c6cb993f60faca816deefdc91c3191", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3c8874318f749ea18a5592551ace541a", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "7a90fd58f07dc4f975b56ffc0ddbdf09", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4395d179f1928b0438d48efba57a5dd8", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5b13b660e46ad58d1cdad808fb85cb87", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b4f72ef8740265aa363512ea88ecc5b5", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2044f89b5a8931e25d4f63238e3da90a", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "50560a21b778e157c325d911e8051d66", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "c4da22f0fbfa3c71fe559b84eb2c565e", "classifications": {"0": "fact_checking", "2": "no_question"}}
+{"conversation_hash": "2e7bf8926d3beded4a4a509c37d0ea5b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "207ecd3dd17557dbfad63fe92f4363c7", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f8f6c22bcdf44dd2f09baae4da68ca43", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "3e34253232afe0ef477614f5ddf0619e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "79d8a8555289f80d8fef71da19d9406e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7e7243baaca58516b13287b02a186b60", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ff3eaf238daa5618df479f3eb111249a", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "fa36e729445dc494adc881796f1b4452", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "361c5d3e12825de7f3667139e3e2638c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d334d1f4f59b73b0efc2c64b6acaea55", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "ebeebd3eac46263b3f8cf9cad233d3dd", "classifications": {"0": "no_question"}}
+{"conversation_hash": "06ada212ec8459bf3e8a32a4b71e261e", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "4fc47d06fc0d334991d76181285b4b89", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "ab11d40839c983f23194283b997e9898", "classifications": {"0": "fact_checking", "2": "no_question"}}
+{"conversation_hash": "e28368df869ed28d03aa4a21aee979be", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "ab697cfce33062df215722544cea0b48", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "7783dd47c56e86e35bb9014b2719c2ed", "classifications": {"0": "no_question"}}
+{"conversation_hash": "72b0dc152e351d0f6db2bdacaa229b0c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "05f80be652a74b29e58f966b668e12e3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6d8edbda791cfbc6af9f27ccbb19c0e9", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "dcb413cb6de12d270408d78addf45bad", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "870211c4929521ff2d9a4746c4f3c72e", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "d27c0a9d93e7def2cf281c4de1d38794", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "632df9f255d51e11c10c190feee111c8", "classifications": {"0": "no_question"}}
+{"conversation_hash": "65800873039b0fe9d9bbde0bfc0c208e", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "e70fb5a151f127bc579aa33ecffb5f1d", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "dedd602d3a8aa0feadf38d947bc3c3ef", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3a400991b0d46060c883a22dbf6e66b8", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f439630f489c2ba26ae183661c97d897", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "68b6c198caeed030ac1f685a40d8d57b", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "5d483132e8fb7d1ae8ad92abfa03a035", "classifications": {"0": "no_question"}}
+{"conversation_hash": "63333b41ab628e35ad294e6d273b2768", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "aa0e66ec6e120bad94230c24cc91701c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1e13357130c154bf4a7741194f81d109", "classifications": {"0": "no_question"}}
+{"conversation_hash": "df969efd4fd7b3e8abc33be88000c9ef", "classifications": {"0": "rhetorical", "2": "no_question"}}
+{"conversation_hash": "b27c553a7d4803769021e7197aead38c", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "3a83f3d759e6070920a1ed0693abcb6b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a9bcddfc70e788cdac0730cebe3ca2d9", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "c24845675e620357c44f4dfc24ec4188", "classifications": {"0": "no_question"}}
+{"conversation_hash": "31c06b04e11dcba37974a5e090d5e962", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "70fa509078e45b1fda983a4c03738861", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3e20b08257451bbeafd4fa5b6e84a521", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "1a133e42f4cba4d243ddb439c4463354", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0615fec2a07148f03102c67a2c93b33a", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "81b179e87c97b1835320cd79b68c93c6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5eef8b60b823daf49902f197e134b24d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d3bf3310d1c553fd578a363aec1a85e3", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "f8153744fdd5c613ab5e5703cac8b3c7", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "07ca17535781e9af31ca098bb1fac9ae", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ae4689561e8e5fd94220865fa8d02c5a", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "5432ce5acc563fcb08c95efee7833a1a", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "5e5b60dc78289acdb2c032be8681c3c2", "classifications": {"0": "no_question"}}
+{"conversation_hash": "8e45998a1831bae9e1b0a0955866da94", "classifications": {"0": "no_question"}}
+{"conversation_hash": "95bcc3ede933c235d20b7205bef5936b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3d11b5bfd4d1dd11d0c354b31c4e7677", "classifications": {"0": "rhetorical", "2": "fact_checking"}}
+{"conversation_hash": "178893a4eebf9907f8dcd8f17496c671", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "f1596bfd79fd63d42107d4395a863428", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b210b1c45c07f6f496c318ad45c203e3", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "21effc97139099e00e627ba6994022de", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3b299e8864b3b74b3fbdea696c346912", "classifications": {"0": "no_question"}}
+{"conversation_hash": "919e4b840c903bd937f0c2ba85bab971", "classifications": {"0": "no_question"}}
+{"conversation_hash": "49da0b388e16cb3ba761c29df9987dff", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "8e3fb0b3743cd9c2c1617e5127aa9133", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a6f3f8926357a5ea9150251f0e878ac2", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "3f9e573147e879fd58236de983832ee9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0a8d7225470298b784704d72e2ff5d8a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "352721123c9192a220e2d01e8d62ac2b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b22eeb04c1b34151c6b8f6b4c572b1af", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "b192e89e7955d76c349947d43fc292e4", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "95660040d21492bc61ba271536d39cba", "classifications": {"0": "no_question"}}
+{"conversation_hash": "338616dc249c6fc164e8aec9c4aa6b80", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "c43b4359ec332ac33c9faf310cb131ef", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "9e521126f0dd8b59d8eae599c480e645", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9576fcfdeccae7433ef3ba545b49eae6", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "4fbe3df2984c8f43eea9427729cb0220", "classifications": {"0": "no_question"}}
+{"conversation_hash": "e21561d09d603498b314a2217a741fde", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "a38ca9e7639d4910cbdb618cde65cc0b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9d404e6b5a7102d19c39d20311ab254f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1d3f5d3e8f291e4452ba566fb9a1d40f", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "ccd88de063a1fd5ee8ae50c6e1ce9181", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2eff39ba45e49d348e2c11a9f13b0ee6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "92f9af11937e5ca72f664d11df965e30", "classifications": {"0": "no_question"}}
+{"conversation_hash": "bf674619113e0cf4d1e153e0967c7599", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1dc6f454f36c03357005f290204bb01d", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "4e2b3755eca0fe07c35768966e3bcf5c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "11c6bc8ffd9af7646eb008dcab45bd97", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "588f0dc93241b3cbf863f930866f79bc", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6b845f4267d6b11530a125c59ccfd653", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "b3af9246d5a8a42817da2665423fbcac", "classifications": {"0": "no_question"}}
+{"conversation_hash": "126dd6f94c9d565bd5d7b8f76b9dfdc7", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "1845ccc0dac9d1dfe7e279da9508582e", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "2965b49773922f86814eef3eb1807265", "classifications": {"0": "no_question"}}
+{"conversation_hash": "26111823d1ec1a6f1342ffcb7bee9622", "classifications": {"0": "no_question"}}
+{"conversation_hash": "15cebaac2e99c8e4fbce2f80c7686ae6", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "c89c654f2ab6bf2ba023477b193bc42f", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "ba211d93036a3a7e9ae528fca893da6b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "762e29d3c0710273b2e47767973488fa", "classifications": {"0": "no_question"}}
+{"conversation_hash": "e811a089b6b9a7cfc123e160932c5e5a", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "0a038ca2f5345d363116fc8af06bf23c", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "85e3ac21605aa296c0f23d8cda7c646b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "731587fcbd308defd3feddf0605d156f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "cc06fc14f416f3abaee9932c8e50359c", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "6e41f036c4fef0819bec682acf65e8e9", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "21fc02ed0c08c0e5912a5566f6aa5600", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f2d19c47b3ea5d23cc32bc0a933be501", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0c6a683b4d0da38e2ed6d6b9ec59065c", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "7a6c7c0cf8a8acab8d6ae7ee8e74498c", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "03aeadfa05e818e9d2cf7e6a099098d5", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "c3bbb5087ddd2930fa325e93388a633b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "36a65698156ba0d586576df54727cf8b", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "e48524df836a2cc92ec913d5725b768c", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "796935ae582f58575181f5535f11ed11", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "700b32ac6a874856aa16325351394d68", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "d58dfe2014cf1d08bd291c386b0efad2", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "146b8a33defaa9efa01bacd2b1a5fd90", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "f55052c49fcf41fe2dfd77530d9b01e6", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "532a90fde1e6972c47c8174fbf45e05d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4f9aab705ed01b4926bf94155da28ac0", "classifications": {"0": "no_question"}}
+{"conversation_hash": "371ff7feef81b0b761bfa0db93a69bc4", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "480dc5aa530a3b725d141e5debeddc25", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6a1188d96579c10752001de6f7a8a254", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0f0d8221c38f6f76fd0028f8160fdc3c", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "4f222332defd5c80038cd159eed62579", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a331fad942b769d89007fb6d14c5a4b6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3c771e39f4da496fc531a28a4d2ab0a0", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7ee5c6535ae27dc7c59a13cdd14dd6b1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "64936e0401fb8e2fc0a6c2724be66c21", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "59d451f28f195e00fd557a54a02eb34e", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "000f4084183f2736740bb1b725913bfa", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0517b67193f16827faec53da3e9edcaa", "classifications": {"0": "no_question"}}
+{"conversation_hash": "de24d957cdaddde35fef113b54f7adef", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "5e6c6ea042026ec251c563827f8fb05b", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "c85449a9360fecd821d039151da0c384", "classifications": {"0": "no_question"}}
+{"conversation_hash": "72e0f3a4cdbdeaa7450e8e3feac20c77", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "660f3f0eb64458318318accf24984951", "classifications": {"0": "no_question"}}
+{"conversation_hash": "544923b87f5053b0b9c03738711380b6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4c0099d149b06e6f95fe0ee3e492252f", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "ebb6a83b8cd4f53a5ee3f2c43dec6dec", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "31ee9f5dd169e4cf96b980bd608a9e49", "classifications": {"0": "no_question"}}
+{"conversation_hash": "efff675bcf5da624c02b06ba8db477da", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f0648405305a34bedb305eae0019cd8f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0f49772cfc056df25d929c1e9b575610", "classifications": {"0": "no_question"}}
+{"conversation_hash": "8eee41534c3270b526cc10ced3d9f0a1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "30c2487f69e63c2b9d2bc89ae22de277", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a087429e39dd7e309294c938f03cf1a2", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "72d4d823b19754763b3e185af2fbce69", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "8613be544f3d86ea3555ed9da76b4387", "classifications": {"0": "no_question"}}
+{"conversation_hash": "99f5cdc0000d2683265441bb93f22261", "classifications": {"0": "no_question"}}
+{"conversation_hash": "412b43096fc805c241023a851147224b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7edc59e466b427287f3f2631d7bc49d8", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "0de3a536685d27ee87f83f212a7824bf", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "ee5a142d1c5c551a98c9b85e44cf8688", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c27a7fa08cf5f4eb1c73ef6a086ed372", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "13d8df10a9cb7eef681e4129b6a1f9f0", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a116183daf3220ea1d0728ecdb7e86df", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5801c2a093a8bfb526f36c468cfd5a13", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5711ea493ab60a31ac9cc83c8a718349", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "4713ef0ea5e1a515fb321eb20fcbcf50", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "f7a7c14e781643bc5e4e6ac23582b260", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "74cff2319e3c56295904e2a0b96a5f34", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "07f99e7b3afa276357fd3339f79c52f6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f5ed901d97414e7891654f59d48aab28", "classifications": {"0": "no_question"}}
+{"conversation_hash": "cd0d4b555d3fd18e1309fd7cedaacd03", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "5d1a9f02a308504ede43a8548f9a63c1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1cb1bff362421b03d086201870edad48", "classifications": {"0": "no_question"}}
+{"conversation_hash": "39e1c294d4d4f4c416a02ed342fd4558", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ce39335a75923c3036296a3d32dc2095", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b8ab2702543524752cfe3d7c5a9b9ffc", "classifications": {"0": "fact_checking", "2": "rhetorical"}}
+{"conversation_hash": "3030197f6da16762a4e46f3f5ba1e605", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "3e5da73c054f91871ecb9b194ecd77db", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0f11416f7cb77c4d0124e67ab4c9e6a1", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "5d5d876be6f9673504f645c7abe8e875", "classifications": {"0": "no_question"}}
+{"conversation_hash": "db9ae6ca04c72fc385f10fdedb97fd1f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c5da0efcb20f8a1b61db556239a32f05", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "a26091814dc99323077b2c8f8f45b520", "classifications": {"0": "no_question"}}
+{"conversation_hash": "caa65e7d3f9624abf88e587f77cbc754", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "7a14eb160a720d8895e2589643a575ed", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a0b1be3826055a1cd39b9e6a468ff24b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "22fb72252d265f965b611cb5bee1b63c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "26332e44fd441305c4e367f3a44578ef", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "65379c250adfecbaaa14eab3918740fc", "classifications": {"0": "no_question"}}
+{"conversation_hash": "832b7b65b23e3c77862cf795e7ae5f36", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "4071cebb2492b883428951bb4e011e0f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9be1d0f11c844bc72ff89a54e12b9265", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "8cd268629f88ab6e3d9a7147b9081c9e", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "7617a746e4769e763f16862f4990b495", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d57b0a9f9a08d6e160260d729bd93d30", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "cd3fbcc72b14808045e3805eff02f181", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "64f59cb2f56124a2b43369cfa351c007", "classifications": {"0": "no_question"}}
+{"conversation_hash": "30539be12a9c7d8319c06192bb94e298", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5cdd2f15b27d203c23288394b860834e", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3473750af52f36f2ae9b206fe33a5dd6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "8c2cb557168ab31ebf58c97c6433c420", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "394085e31359c5f5f06609d7697504cb", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f73cbcf1d73a9e569708502b1be8448d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "644cf4f49e8f31af9d19780c72c1d34b", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "ae41ec6355224d692771eec1bc4fa064", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a1b5c84c3fe2c2ac681f9c6d875e7dcf", "classifications": {"0": "no_question"}}
+{"conversation_hash": "495f06f2d26351452fdc8f2949ddb634", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b722db06db4dcf563c305a7e0fa7505d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f3e02bb0aed3ed3099108fb256e411c5", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "e5203bcb48b3e7bd7836d4d15dac5f4f", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "31f28bf58dd5724c3798278ce2d8dae8", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "927d190be145f1b241eae9e1610fc8a4", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9927b34841344f2d6801f2c167084bf5", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c1b3a84ff2f729f76810cdc9a34f0006", "classifications": {"0": "no_question"}}
+{"conversation_hash": "bd9ed95893f16fa589b605f88a8b1b14", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "16e5b5b26f478e3f3c0b0fe92977fa0d", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "f46d93fbfcfb0e90a3365bc33097817c", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "68d6da791afd6aa3d13330fb46746979", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "c12abb00c709e06750227f59e9373819", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f82191dee628d21f90285c8002911cfb", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "19bc9735bcda331b648ac0e9a08ff68c", "classifications": {"0": "no_question"}}
+{"conversation_hash": "68bd196c6cb2f9dd60778d282e7d306f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "91cf420103d3f31244e209a8f9b84540", "classifications": {"0": "no_question"}}
+{"conversation_hash": "094aa66e6e612ec55e0e7ef1302c8465", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1f522ff6e7af95dbda65467383a433a5", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f08847bd08401d052b90df5f62f77103", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4b572e2d8481668b4d3ec16b809194b4", "classifications": {"0": "rhetorical", "2": "exploratory"}}
+{"conversation_hash": "0744db0de9dbfc3dce6e826b6ab904c3", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "c96fd0c22c271a8b7b6f5af501edc683", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a54da7239849e391d3bb49eae46146b3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "31bb6e732e38a8423ec98271ebdc7b8b", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "2ade6ac2dffa857cd69761a4e85fef01", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5d9ab41963bcf2f0ea9163ba86a48361", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3ecc4475b1943de4d14149d1f5523d4d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f8e1bda25575ce150b3b240632fef770", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a1adc1a213ea24a9400e49e9d544c560", "classifications": {"0": "no_question"}}
+{"conversation_hash": "20dd5c6d6c048575c5fa0b1c11615bc5", "classifications": {"0": "no_question"}}
+{"conversation_hash": "73bb6d00c626b41fa18608f166304345", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "7edaf84159fecc53c506a03f9f512da2", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "c6f57b6b97cf854aede9314aa44afdf4", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "e5ae83ecfd965891cf5f2602f2b2c63f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "fa7a9f4c7b602132b00d8c16e2fe87cb", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "740d54531f07049b69374d4338a0d433", "classifications": {"0": "exploratory", "2": "rhetorical"}}
+{"conversation_hash": "724b5788b6bff2a68873def44fb495ec", "classifications": {"0": "no_question"}}
+{"conversation_hash": "749d1088107808724b1ae2ed669403da", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a7ec8d3806865195dd221dfd13783807", "classifications": {"0": "no_question"}}
+{"conversation_hash": "0a9a2daf33b4bed52db3ed445ecd5666", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "8397d785e45bcfa5df604d6f63d9d734", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4850ed61478e66b5ba3977aee3c7e995", "classifications": {"0": "no_question"}}
+{"conversation_hash": "74e8a93087fee8be253a3573832284f5", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "b452e92be8b35536d1c7a2881b5fba83", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "43f0c45df24bafdaa0c634dcb50f013d", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "f0c7c4f250d2b08a0147ef1a8687bda6", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "55d07aa0cd5cf0692145493a3d8639f2", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "2e0017f4d89bbf977d1f4557352adaa3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4f8e0fe72c2dcc99ac95c3406e137c1f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "923c7ae60e9c2457df087e0cc2c2b3a8", "classifications": {"0": "no_question"}}
+{"conversation_hash": "ecb727c5c2635fe873602e5ffc3b0d18", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7dd246080cf07ce244bbbdca26c7b8ed", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1b5dfaad5b59bb4725c867c755f8f049", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "672c99710cfac6d1ed6263b8e1a369c3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "54e6ae62532806ff9090beac0beb7d3d", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "86f9caaf69f7cc5b036ebb04b21a72e4", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "6319d578cdc085a457a9589f908a492d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6da32432e4ac814a642d49ce2d6ccb5f", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "2cdd984ff3ad23854f1ccd738b426ba7", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "26d102666c0be809a8dedd012260d40e", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "6aae805ca1719ca6ba5600d7e0996dbf", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "490397156ac844b0dd93a3ddbe479143", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "d2c71da816b59b597e651550581bf620", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "1373e0ff68720217fd4de48de85411b5", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "175da3ac4748c6404da4ae3a2b26fe7a", "classifications": {"0": "exploratory", "2": "no_question"}}
+{"conversation_hash": "5c186c89b145f171ba159d0fc8aa1a2b", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "55650f4f4f4542b66f8cffe9bc988f2b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f4f6d78272d980d6d7d169933c7c7039", "classifications": {"0": "no_question"}}
+{"conversation_hash": "e718315ba0044e7f3e650f475146d573", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "6eaa4490077d09b35c7bd5380447bc15", "classifications": {"0": "exploratory", "2": "no_question"}}
+{"conversation_hash": "d0f9692241efa926f71e56ce2b0dc351", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4c7a20282d84d4733be296b581a08a39", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "c4176a056b02fd7d5beaf504268ed23e", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "f4cad2e35b1920908d19aab7d15adbc0", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "f47c48fe77b4adefc6666d5343f00de1", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "feea15d1390f95827244a65fcea894e5", "classifications": {"0": "exploratory", "2": "no_question"}}
+{"conversation_hash": "c6c98920c9b055863c3eb1a1cd1d251f", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "cf3b506f937d0877c8aac5eb6b0167c9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "fc66dcf4a25a8b90e437cda827f69ff2", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "fe5b3d3220a6a62191b69a20853b1b09", "classifications": {"0": "no_question"}}
+{"conversation_hash": "fded0d9332a790858cbf9bdcd40a637a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "99afa89ec73104e6a81fc9d01f696d9f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "8d1fd75290c1cf32b8031c81ba9ef5d0", "classifications": {"0": "no_question"}}
+{"conversation_hash": "992674d465719740ec8ccf01c98fe69d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "20d9d7c7d0db6432eb4f9b8653fce75a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9c9fe03dc8639fb4341fcc577973fc69", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "c8c34f762e0fca34b9bacb4de23c637f", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "f6d8ee6277e048b4ea56fff8b3de5f76", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "e4f15d30f0cd887df240ebc333d4acf8", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "360d1eca610fb6179b047ce9d186877d", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f55832c1367b01fbade73f571e91c015", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d8b45bc33857b25080679d128d211a30", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f14809aeba11ebcbf50d5ba8448e6880", "classifications": {"0": "no_question"}}
+{"conversation_hash": "27b1e0221b6c4e8d311623fe8af8caa2", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a72010275d01c66010c6ecae53209d97", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5775c8415b3a7789a3d35c2e636d0fa4", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "7886ed552b8ea9aa68bb4cc3ca6b7910", "classifications": {"0": "exploratory", "2": "no_question"}}
+{"conversation_hash": "7d5fc6cbb489ace6c1ad481e67e1a26b", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "b4bfbf2a09bfab64cf9c3e82de8df28b", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "17298a4e94554769f5accc99d31f15e4", "classifications": {"0": "fact_checking", "2": "exploratory"}}
+{"conversation_hash": "7020301f36692e351bd15fea369a7868", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d4a9617687fa7a601fb1abf2e8881602", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4c6abf8c16a112e4abd9610d36c79762", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c7defdb32b990daf377a3fc2fbdc89d3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c8aea8b413ba66c0fd725dc6af7d6b22", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "549e4dbe44e8eea6ed4d2345f9096473", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7c23b8a0f7070fac53fba89ff28dbcb7", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "0d668ab735d67be26d2ee8ff2d6d0ddb", "classifications": {"0": "exploratory", "2": "fact_checking"}}
+{"conversation_hash": "15698c7c75f895645152ba83f238c204", "classifications": {"0": "no_question"}}
+{"conversation_hash": "40fa0d651899dd1a2c135022f0c4e811", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "1e19717286cd79611af7a2fc966b07ca", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "cd33160cac6da3fd1ae8adb6faff1d59", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "6b60b7be7db13650e2d1661113397977", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "ef1caeb73730d99b3da092053ed8f938", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "8ab2efa0d223377d49ebf069a6177d20", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "4e69d186289f9331c55b0624ac1da0c8", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "cc545d57417c48d95d86cdfbe0ccd544", "classifications": {"0": "no_question"}}
+{"conversation_hash": "c0695b1d0ba8cd35a26dc2327d6616e6", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "7d5c21995f106b62241e44cec3245630", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "ff0a6829a3b18b870e6f4fff132d91d6", "classifications": {"0": "exploratory", "2": "no_question"}}
+{"conversation_hash": "8e37d28398dbd8d3c8665aaf9d1e1e79", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "c7d422ef931a68c554f49215797090c1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "82ebd4c38e1c1dc0ef9c051251d0f253", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "720b67113a7139c3b25d0b42e601924a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "57f896a28a47da8e19cc54a7a3199520", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "b7002334ba51dd4f85d7df271f32cc4f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "37a2add38c9759346cf5e847bc392645", "classifications": {"0": "no_question"}}
+{"conversation_hash": "a7e3cf8c76882a5eb1e1031414c349da", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "f3c389b18e45363c8453a5b5b1d70b26", "classifications": {"0": "no_question"}}
+{"conversation_hash": "435182422af8d7bf00a2f017c540ea01", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "12efddf9580fe99d3a7b9877e349ebd6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "1b455c47e83eca6eb6ba8d61f93e9f50", "classifications": {"0": "no_question"}}
+{"conversation_hash": "07f6f8c37745397386d0b8502096e5f6", "classifications": {"0": "no_question"}}
+{"conversation_hash": "23bd957118492e7b88387909c104b64b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3f240f2b8cd1586e699f5e2e204393fa", "classifications": {"0": "no_question"}}
+{"conversation_hash": "9643955b083f922c921c3802bda8b4b9", "classifications": {"0": "no_question"}}
+{"conversation_hash": "5340a927c4455af8917d404e1d0dd320", "classifications": {"0": "no_question", "2": "fact_checking"}}
+{"conversation_hash": "31de411cfb3447350e232f0197c81d69", "classifications": {"0": "no_question"}}
+{"conversation_hash": "f1bc63833a99fd1314f3c5b7dfbb2947", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "bd5144663ffd94a927d7a67331bb04a5", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "fdce4e5981503d6fe27841bff7334a9a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3f0990a94b5d1e197c7474a4de4a13b7", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2a940bb875df74fc0d1e2a149b782836", "classifications": {"0": "no_question"}}
+{"conversation_hash": "200fb09d3d2bebb5b222beca1a6d4c3e", "classifications": {"0": "no_question", "2": "exploratory"}}
+{"conversation_hash": "7944fb4e49be5663aa2be35114772868", "classifications": {"0": "no_question"}}
+{"conversation_hash": "b5a1eab6620de4cdc2272e6156d00b7d", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "9fb82cf625d5928b16553d74894365d5", "classifications": {"0": "no_question"}}
+{"conversation_hash": "d6e13e41ade868e3ee016fb4fc0cd0c3", "classifications": {"0": "no_question"}}
+{"conversation_hash": "bbeaf050bef5de959a21f455604780a1", "classifications": {"0": "fact_checking", "2": "fact_checking"}}
+{"conversation_hash": "1cc9aec63dc997c131d91ea936bdcc70", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "9e8125ddfebf6568e74c6256c5dd5444", "classifications": {"0": "no_question"}}
+{"conversation_hash": "888f71486b19eff3f41e8a293e2f4b66", "classifications": {"0": "no_question"}}
+{"conversation_hash": "88a233c4e7d88e0ef4da6148474be738", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "60fa8f937ed3c0113ee13bbeb050fea8", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "da004f151487d11f8d2451d4eef6879c", "classifications": {"0": "exploratory", "2": "exploratory"}}
+{"conversation_hash": "3c3501ec07be009d91b50b776815f5a8", "classifications": {"0": "no_question"}}
+{"conversation_hash": "733f4d9295a1ad07cd52a0283fc97a9f", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "9253c93f8d94a95d4d5e478c91df0a14", "classifications": {"0": "exploratory"}}
+{"conversation_hash": "e03e709080d6d255e22916f2a2155ca8", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "b27385a608ba8e9ff6588e620186070f", "classifications": {"0": "no_question"}}
+{"conversation_hash": "3e0d0282757992434a0931b29ad74f4b", "classifications": {"0": "no_question"}}
+{"conversation_hash": "7d3423957fb1fa509051d81143e78d25", "classifications": {"0": "no_question"}}
+{"conversation_hash": "2453341e8b922cbb8fe3f9b5aff666ff", "classifications": {"0": "no_question"}}
+{"conversation_hash": "6c2ba0bee2f96d80fc0153f4f6c0e41a", "classifications": {"0": "no_question"}}
+{"conversation_hash": "997abaa691a188f5dcbf3134592a46c1", "classifications": {"0": "no_question"}}
+{"conversation_hash": "4923120d8d5509569fdd1b308a69d1e7", "classifications": {"0": "fact_checking"}}
+{"conversation_hash": "c42915b403cb7e4834b55e0f3d7d80f5", "classifications": {"0": "no_question", "2": "no_question"}}
+{"conversation_hash": "3b5b397c5ddeac93a098293ddcb90a3a", "classifications": {"0": "no_question"}}

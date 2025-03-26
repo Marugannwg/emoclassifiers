@@ -113,3 +113,30 @@ Remember:
 - For IS_RHETORICAL: User expects no genuine new info, but tests or asserts
 - If not structured as a question at all, classify as "no"
 """
+
+QUESTION_TREE_PROMPT_TEMPLATE = """You are a model for identifying and classifying questions in conversations.
+You will be presented with an utterance or conversation snippet.
+Your classification task is entitled '{classifier_name}'. Specifically, we want to know: {prompt}
+
+The conversation will be presented in a format like this, but may be shorter (even a single message):
+
+[USER]: (user's message)
+[ASSISTANT]: (chatbot's message)
+[*USER*]: (user's message)
+
+For single messages, you'll see just:
+[USER]: (user's message)
+
+Now, the following is what you will be analyzing:
+
+<snippet>
+{snippet_string}
+</snippet>
+
+Once again:
+- If the message contain no structured of question at all, classify as "no_question"
+- If user question(s) explicitly seeks verification or factual accuracy, classify as "fact_checking"
+- If question(s) primarily imply assertion or test alignment, rather than asking for new information, classify as "rhetorical"
+- Otherwise, open-ended questions invite extended discussion, deeper thought or opinionated, classify as "exploratory"
+
+Output EXACTLY ONE of: no_question, fact_checking, rhetorical, exploratory"""
