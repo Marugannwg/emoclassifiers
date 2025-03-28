@@ -1,0 +1,40 @@
+{
+  "is_action_requesting": {
+    "full_name": "Is Action-Requesting Intent",
+    "prompt": "Does the user request the Assistant to perform a specific action or task in this message?",
+    "criteria": [
+      "Often phrased as polite or indirect questions",
+      "The user implies a specific action with a concrete output or performance: Example: 'Can you summarize this paragraph?'",
+      "The user uses polite request forms: Example: 'Would you mind helping me with...?'",
+      "Exclude general, information-seeking questions that don't request specific actions: Example: 'What is the capital of France?'"
+    ],
+    "chunker": "user_message",
+    "version": "intent"
+  },
+  "is_social_relational": {
+    "full_name": "Is Social-Relational Intent",
+    "prompt": "Does the user seek social, emotional, or interpersonal interaction rather than factual information?",
+    "criteria": [
+      "True when the appropriateness of the answer is measured by empathy and engagement rather than factual accuracy",
+      "The user asks for opinions or feelings: Example: 'What do you think about this idea?'",
+      "The user asks about feelings or emotional: Example: 'How are you feeling about...?'",
+      "The user seeks validation or reassurance: Example: 'Do you think I made the right choice?'",
+      "Exclude purely factual or task-oriented queries: Example: 'What is the weather forecast?'; 'Can you explain this?'"
+    ],
+    "chunker": "user_message",
+    "version": "intent"
+  },
+  "is_meta_conversational": {
+    "full_name": "Is Meta-Conversational Intent",
+    "prompt": "Does the user ask about the conversation itself, the assistant's capabilities, or interaction dynamics?",
+    "criteria": [
+      "True when the question is towards the interlocutor, rationale, or the ongoing conversation; signal a need to possibly break from the normal QA mode and discuss the conversation process",
+      "The user questions the reasoning: Example: 'Why did you give me that answer?'",
+      "The user asks about assistant capabilities and behaviors: Example: 'How do you decide what to say?';'Why do you always respond that way?'",
+      "The user reflects on the interaction: Example: 'I notice you tend to..., is that what you intended?'",
+      "The user asks about limitations: Example: 'What can't you do...?'"
+    ],
+    "chunker": "user_message",
+    "version": "intent"
+  }
+} 

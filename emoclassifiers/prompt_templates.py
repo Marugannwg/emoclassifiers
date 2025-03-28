@@ -140,3 +140,25 @@ Once again:
 - Otherwise, open-ended questions invite extended discussion, deeper thought or opinionated, classify as "exploratory"
 
 Output EXACTLY ONE of: no_question, fact_checking, rhetorical, exploratory"""
+
+INTENT_CLASSIFIER_PROMPT_TEMPLATE = """You are a model for analyzing the intent of user messages in chatbot conversations.
+You will be presented with a message or conversation snippet from a conversation between a user and a chatbot ("assistant").
+Your classification task is entitled '{classifier_name}'. Specifically, we want to know: {prompt}
+
+The following are the criteria for your classification:
+{criteria}
+
+Generally:
+- Focus only on the user's message.
+- If the message matches the criteria, classify as "yes"
+- If the message does not match the criteria, classify as "no"
+- If you are unsure, classify as "unsure"
+
+Now, the following is the conversation snippet you will be analyzing:
+
+<snippet>
+{snippet_string}
+</snippet>
+
+Once again, the classification task is: {prompt}
+Output your classification (yes, no, unsure)."""

@@ -12,7 +12,8 @@ CLASSIFIER_DEFINITION_PATH_DICT = {
     "v1_top_level": "assets/definitions/emoclassifiers_v1_top_level_definition.json",
     "v2": "assets/definitions/emoclassifiers_v2_definition.json",
     "question": "assets/definitions/question_classifiers_definition.json",
-    "question_tree": "assets/definitions/question_tree_classifier.json"
+    "question_tree": "assets/definitions/question_tree_classifier.json",
+    "intent": "assets/definitions/intent_classifiers_definition.json"
 }
 
 
@@ -35,11 +36,21 @@ class QuestionTypeEnum(Enum):
     EXPLORATORY = "exploratory"
 
 
+class IntentTypeEnum(Enum):
+    """
+    Intent type classification output.
+    """
+    ACTION_REQUESTING = "action_requesting"
+    SOCIAL_RELATIONAL = "social_relational"
+    META_CONVERSATIONAL = "meta_conversational"
+    NONE = "none"
+
+
 class ResponseFormat(pydantic.BaseModel):
     """
     Response format for structured completion.
     """
-    response: YesNoUnsureEnum | QuestionTypeEnum
+    response: YesNoUnsureEnum | QuestionTypeEnum | IntentTypeEnum
 
 
 def format_criteria(criteria: list[str]) -> str:
@@ -98,6 +109,22 @@ def get_emo_classifiers_v2_prompt(
     )
 
 
+def get_intent_classifier_prompt(
+    classifier_definition: dict,
+    chunk: Chunk,
+) -> str:
+    """
+    Construct classification prompt for Intent Classifiers.
+    """
+    assert classifier_definition["version"] == "intent"
+    return prompt_templates.INTENT_CLASSIFIER_PROMPT_TEMPLATE.format(
+        classifier_name=classifier_definition["full_name"],
+        criteria=format_criteria(classifier_definition["criteria"]),
+        snippet_string=chunk.to_string(),
+        prompt=classifier_definition["prompt"],
+    )
+
+
 def get_emo_classifiers_prompt(
     classifier_definition: dict,
     chunk: Chunk,
@@ -123,6 +150,8 @@ def get_emo_classifiers_prompt(
             prompt=classifier_definition["prompt"],
             snippet_string=chunk.to_string(),
         )
+    elif classifier_definition["version"] == "intent":
+        return get_intent_classifier_prompt(classifier_definition=classifier_definition, chunk=chunk)
     else:
         raise ValueError(f"Unknown version: {classifier_definition['version']}")
 
@@ -148,7 +177,7 @@ class ModelWrapper:
         classifier_definition: dict,
         chunk: Chunk,
         max_completion_tokens: int = 20,
-    ) -> YesNoUnsureEnum:
+    ) -> YesNoUnsureEnum | QuestionTypeEnum | IntentTypeEnum:
         """
         Classify a single conversaiton chunk.
         """
